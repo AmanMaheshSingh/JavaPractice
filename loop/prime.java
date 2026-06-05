@@ -1,7 +1,7 @@
 //Print if a number is prime or not (input n from user).
 import java.util.*;
 
-class Prime{
+class prime {
     public static void main (String[] arg){
         Scanner sc = new Scanner (System.in);
         System.out.println("Enter The Number to Check");

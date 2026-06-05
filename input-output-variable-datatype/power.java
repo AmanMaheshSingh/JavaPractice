@@ -1,7 +1,7 @@
 //Power In Java
 import java.util.*;
 
-public class Power{
+public class power {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter The Number You Want To know Power for and Enter Power");
